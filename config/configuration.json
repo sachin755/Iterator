@@ -1,0 +1,16 @@
+{
+	"About":{
+		"author":"Sachin Kumbhojkar",
+		"email":"sachin755@gmail.com"
+	},
+	"Engine":{
+		"name":"iter",
+		"version":"1.0",
+		"signature":"iteator > "
+	},
+	"Behaviour":{
+		"logs":"True"
+	}
+}
+
+
